@@ -1,7 +1,7 @@
 # AdbRAT
 
 
-This utility can launch a hidden ADB session by simply connecting to a PC!
+This utility can launch a hidden ADB session by simply connecting your device to your computer!
 
 > Tutorial
 
